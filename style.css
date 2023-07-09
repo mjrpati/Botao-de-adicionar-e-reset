@@ -1,0 +1,19 @@
+body{
+  text-align: center;
+}
+
+.botao, .reset {
+ padding: 30px;
+ margin-top: 50px;
+ font-size: 30px;
+ margin-left: 10px;
+ margin-right: 10px;
+}
+
+
+.div0{
+  margin-top: 100px;
+  font-size: 50px;
+  text-align: center;
+}
+
